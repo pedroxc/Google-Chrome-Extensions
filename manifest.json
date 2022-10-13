@@ -1,0 +1,11 @@
+{
+  "manifest_version":2,
+  "version":"0.0.1",
+  "name":"simple Extenstion",
+  "description":"Extensão do Pedro Xavier Coelho",
+  "author":"Pedro Xavier Coelho",
+  "browser_action":{
+    "default_title":"Simple Extenstion",
+    "default_popup": "index.html"
+  }
+}
